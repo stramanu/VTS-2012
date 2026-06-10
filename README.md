@@ -12,7 +12,7 @@ This demo video was originally uploaded in 2012 when the project was first devel
 
 The video is hosted on my original personal YouTube channel, which I used at the time for various personal interests and experiments, including software projects and music.
 
-[![VTS (2012) — Virtual Touch Screen](https://img.youtube.com/vi/PV7ssokzs-s/maxresdefault.jpg)](https://www.youtube.com/watch?v=PV7ssokzs-s)
+[![VTS (2012) — Virtual Touch Screen Demo](https://img.youtube.com/vi/PV7ssokzs-s/hqdefault.jpg)](https://www.youtube.com/watch?v=PV7ssokzs-s)
 
 *(Note: The video quality reflects the recording equipment and technology available at the time of development.)*
 
